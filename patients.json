@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5ff44868e8395b29f4c42793"},"id":1.0,"patient_name":"john","age":30.0,"gender":"male","referred_by_surgery":"dr.roy","address":"29,holburn street,uk","illness_status":"positive","sympotms":"cough and cold","quarnatine_days":7.0}
